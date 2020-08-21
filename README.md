@@ -2,7 +2,7 @@
 <h3>Introduction</h3>
 A county wise to predict number of Tubercuosis cases and Identify disease clusters from relevant data. It also performed well on predicting number of COVID cases given previous day cases and the same inputs as the TB data.
 <br>
-<a href="https://github.com/aLefred0/aLefred0.github.io/blob/html/tb.png">
+<a href="https://github.com/aLefred0/aLefred0.github.io/blob/html/tb.png?raw=true">
   <img src="tb.png" >	</a>
 <br>
 <h3>Dataset</h3>
